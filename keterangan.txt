@@ -1,0 +1,25 @@
+-----------------------------------
+TUGAS JAVA
+-----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+PEMASANGAN APLIKASI
+------------------------------------
+1.hidupkan xampp jalankan apache dan mysql
+2. didalam folder database ada aacdm sql  kemudian aacdm.sql di import ke phpMyadmin
+3. didalam folder webnya ada aacdm kemudian folder acdm tersebut pindahkan kedalam htdoch
+4. didalam folder javanya ada aacdm kemudian folder aacdm tersebut open project ke net beans
+5. jalankan melalaui netbeans run / aacdm jar yg ada didalam folder javanya
